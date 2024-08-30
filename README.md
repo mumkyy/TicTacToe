@@ -1,2 +1,2 @@
 # TicTacToe
-A self taught TicTacToe game algorithm proof of concept 
+A proof of concept for a self taught game algorithm implemented in Tic Tac Toe
